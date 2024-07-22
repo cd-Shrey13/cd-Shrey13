@@ -1,12 +1,12 @@
 # About Me
 I am a web development enthusiast currently pursuing a Bachelor's degree from LD College of Engineering (LDCE). I enjoy creating web applications and continuously improving my skills in front-end and back-end development.
 
-# My Web Development Projects
+# Projects
 
 ### 🎮Tile Master Game
 A fun and interactive puzzle game where the goal is to match tiles and clear the board. This project demonstrates my ability to create dynamic and interactive user interfaces using HTML, CSS, and JavaScript.
 
-[Tile Master Game](https://cd-shrey13.github.io/Tile-Master/)
+[Tile Master](https://cd-shrey13.github.io/Tile-Master/)
 
 #### Features
 - Interactive tile matching
