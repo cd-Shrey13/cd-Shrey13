@@ -20,7 +20,7 @@ A fun and interactive puzzle game where the goal is to match tiles and clear the
 ### 🌤️ Weather App
 A simple and intuitive weather application that provides current weather information for any location. This project highlights my skills in working with APIs and creating responsive designs.
 
-[Weather App](https://cd-shrey13.github.io/Weather_App/)
+[Weather App](https://cd-shrey13.github.io/Weather-App/)
 
 #### Features
 - Fetches real-time weather data from a weather API
